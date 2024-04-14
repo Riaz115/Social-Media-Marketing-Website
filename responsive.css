@@ -1,0 +1,207 @@
+@media (max-width: 1300px) {
+  /* this is fot the navbarsection */
+
+  .header-wrapper .menu-navbar {
+    width: auto;
+  }
+}
+@media (max-width: 1230px) {
+  /* this is fot the  navbar    section */
+  .header-wrapper .nav-item {
+    margin: 0 5px;
+  }
+  .main-btn {
+    padding: 12px 10px !important;
+  }
+  /* this is for the banner 1 section */
+  .home-banner .banner1-title {
+    font-size: 50px;
+  }
+
+  /* this is for the pricing section and free tail */
+  .free-trail h2 {
+    font-size: 26px;
+  }
+  /* this is for the footer section */
+  .footer-wrapper .social-media-icon {
+    margin-right: 20px;
+    color: var(--text-white);
+    font-size: 15px;
+  }
+}
+@media (max-width: 1070px) {
+  /* this is fot the  navbar    section */
+  .header-wrapper .nav-item .nav-link {
+    font-size: 16px;
+  }
+
+  /* this is for the about section */
+  .about-wrapper .about-title {
+    font-size: 16px;
+  }
+}
+@media (max-width: 991px) {
+  /* this is fot the   navbar   section */
+  .header-wrapper .nav-item {
+    margin: 0 10px;
+  }
+  .main-btn {
+    padding: 12px 29px !important;
+  }
+  .header-wrapper .nav-item .nav-link {
+    font-size: 18px;
+    margin-top: 15px;
+  }
+  .header-wrapper .nav-item:last-child .nav-link {
+    margin-bottom: 20px;
+  }
+  .header-wrapper .navbar-collapse {
+    background-color: var(--bg-white);
+  }
+
+  /* this is for the banner 1 section */
+  .home-banner .banner1-title {
+    font-size: 36px;
+  }
+
+  /* this is for the about section */
+  .about-wrapper .about-number {
+    margin: 20px auto;
+  }
+  .about-wrapper .about-title {
+    font-size: 24px;
+  }
+  /* this is for the footer section */
+  .footer-wrapper {
+    padding: 50px 0 25px;
+  }
+  .footer-wrapper .social-media-icon {
+    margin-right: 25px;
+    font-size: 18px;
+  }
+  .footer-wrapper .footer-logo img {
+    max-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  /* this is fot the  banner 1    section */
+  .home-banner {
+    padding: 50px 0 80px;
+  }
+  .home-banner .row {
+    flex-direction: column-reverse;
+  }
+  .home-banner .banner1-text {
+    width: 100%;
+  }
+  .home-banner .banner1-btn-section {
+    justify-content: center;
+  }
+  /* this is for the about section */
+  .about-wrapper {
+    padding: 30px 0 0;
+  }
+  .about-wrapper .innovate {
+    padding: 30px 0;
+  }
+
+  /* this is for the features section */
+  .features-wrapper .features-title {
+    font-size: 24px;
+  }
+  .features-wrapper {
+    padding: 50px 0 50px;
+  }
+
+  /* this is for the pricing section */
+  .pricing-wrapper {
+    padding: 70px 0 0;
+  }
+  .pricing-wrapper .pricing-title {
+    font-size: 26px;
+  }
+  .free-trail h2 {
+    font-size: 22px;
+  }
+  .free-trail {
+    padding: 50px 0;
+  }
+  /* this is for the clients section */
+  .clients-wrapper .clients-title {
+    font-size: 26px;
+  }
+  /* this is the faqs section */
+
+  .faq-wrapper {
+    padding-top: 60px;
+  }
+  .faq-wrapper .faq-title {
+    font-size: 26px;
+  }
+  .faq-wrapper .accordion-button {
+    font-size: 15px;
+  }
+}
+@media (max-width: 330px) {
+  /* this is for the navbar section */
+  .header-wrapper .navbar-brand img {
+    width: 170px;
+  }
+  /* this is fot the  home    section */
+  .home-banner .banner1-title {
+    font-size: 26px;
+  }
+  .home-banner .banner1-text {
+    font-size: 16px;
+  }
+  .home-banner {
+    padding: 25px 0 50px;
+  }
+  .clients h2 {
+    font-size: 17px;
+  }
+
+  /* this is for the about section */
+  .about-wrapper .about-title {
+    font-size: 16px;
+  }
+  /* this is for the features section */
+  .features-wrapper .features-title {
+    font-size: 18px;
+  }
+  .features-wrapper {
+    padding: 40px 0 40px;
+  }
+  /* this i for the pricing section */
+  .pricing-wrapper {
+    padding: 50px 0 0;
+  }
+  .pricing-wrapper .main-btn {
+    padding: 10px 10px;
+    font-size: 14px;
+  }
+  .pricing-wrapper .pricing-title {
+    font-size: 20px;
+  }
+  .free-trail h2 {
+    font-size: 16px;
+  }
+  .free-trail {
+    padding: 35px 0;
+  }
+
+  /* this is for the reviews section */
+  .reviews-wrapper {
+    padding: 50px 0;
+  }
+  /* this is the faqs section */
+  .faq-wrapper {
+    padding-top: 40px;
+  }
+  .faq-wrapper .faq-title {
+    font-size: 20px;
+  }
+  .faq-wrapper .accordion-button {
+    font-size: 12px;
+  }
+}
